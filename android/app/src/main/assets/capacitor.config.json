@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "operation-geozone",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
