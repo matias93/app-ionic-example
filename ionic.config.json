@@ -1,0 +1,7 @@
+{
+  "name": "operation-geozone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
